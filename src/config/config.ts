@@ -6,9 +6,9 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'ANANYAA MITTAL',
+    name: 'ANANYA MITTAL',
     title: 'Branding & Decor Associate | INTERN',
-    image: getAsset('images/profile.png'), // Customize or replace with your profile image
+    image: getAsset('IMAGE.PNG'), // Customize or replace with your profile image
     description:
       'I have experience in branding and décor through college clubs and am currently working as an intern at Atelier Enterprises. Alongside this, I am pursuing a BSc in Economics with Data Science.\n' +
       '\n' +
