@@ -6,19 +6,19 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'ANANYAAA MITALL',
-    title: 'DANCER  | Your Role',
+    name: 'ANANYAA MITTAL',
+    title: 'Branding & Decor Associate | INTERN',
     image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'I have experience in branding and décor through college clubs and am currently working as an intern at Atelier Enterprises. Alongside this, I am pursuing a BSc in Economics with Data Science.\n' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      'Intern at Atelier Enterprises and BSc Economics with Data Science student, interested in building strong brand identities through creative décor and visual design.\n' +
       '\n' +
-      'Summarize your education or certifications briefly and highlight your practical work.\n' +
+      'Undergraduate student pursuing a BSc in Economics with Data Science, complemented by hands-on experience in branding and décor gained through college clubs and my role as an intern at Atelier Enterprises.\n' +
       '\n' +
-      'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+      'As an intern at Atelier Enterprises, I conduct online workshops focused on branding and décor, sharing practical insights in visual styling and brand aesthetics.',
+    tagline: 'From studio to strategy: bringing discipline, creativity, and drive.',
+    location: 'BANGALORE, INDIA',
   },
 
   seo: {
@@ -148,7 +148,7 @@ const siteConfig = {
   ],
 
   contact: {
-    email: 'your.email@example.com',
+    email: 'ananyamittal1243@gmail.com',
     linkedin: 'https://www.linkedin.com/in/your-linkedin/',
     github: 'https://github.com/your-username',
     googleScholar: 'https://scholar.google.com/citations?user=YOURID',
