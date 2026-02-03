@@ -29,7 +29,7 @@ const siteConfig = {
   animatedText: ['Branding & Decor Associate', 'Where Brands Meet Spaces', 'Creative Visual Storytelling', 'Ideas into Experiences'],
 
   navigation: [
-    { name: 'Home', url: '/home' },
+    { name: 'Home', url: '/' },
     { name: 'Projects', url: '/projects' },
     { name: 'Research', url: '/research' },
     { name: 'Education', url: '/education' },
