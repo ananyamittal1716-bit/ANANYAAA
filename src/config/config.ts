@@ -29,14 +29,14 @@ const siteConfig = {
   animatedText: ['Branding & Decor Associate', 'Where Brands Meet Spaces', 'Creative Visual Storytelling', 'Ideas into Experiences'],
 
   navigation: [
-    { name: 'Home', url: '/https://ananyamittal1716-bit.github.io/ANANYAAA/' },
-    { name: 'Projects', url: '/https://ananyamittal1716-bit.github.io/ANANYAAA/projects' },
-    { name: 'Research', url: '/https://ananyamittal1716-bit.github.io/ANANYAAA/research' },
-    { name: 'Education', url: '/https://ananyamittal1716-bit.github.io/ANANYAAA/education' },
-    { name: 'Experience', url: '/https://ananyamittal1716-bit.github.io/ANANYAAA/experience' },
-    { name: 'Blogs', url: '/https://ananyamittal1716-bit.github.io/ANANYAAA/blogs' },
-    { name: 'Resume', url: '/https://ananyamittal1716-bit.github.io/ANANYAAA/resume' },
-    { name: 'Contact', url: '/https://ananyamittal1716-bit.github.io/ANANYAAA/contact' },
+    { name: 'Home', url: '/home' },
+    { name: 'Projects', url: '/projects' },
+    { name: 'Research', url: '/research' },
+    { name: 'Education', url: '/education' },
+    { name: 'Experience', url: '/experience' },
+    { name: 'Blogs', url: '/blogs' },
+    { name: 'Resume', url: '/resume' },
+    { name: 'Contact', url: '/contact' },
   ],
 
   // Static blog entries. Use getAsset so the URL respects NEXT_PUBLIC_BASE_PATH / next.config.basePath
