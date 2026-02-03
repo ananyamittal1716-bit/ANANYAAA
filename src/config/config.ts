@@ -55,9 +55,7 @@ const siteConfig = {
       degree: 'Bachelors in Economics with Data Science',
       year: '2025–Present',
       image: getAsset('images/education/placeholder.png'),
-      description: [
-  'Focused on economic analysis using data science tools and quantitative methods.'
-],
+      description: ['Focused on economic analysis using data science tools and quantitative methods.'],
     },
   
   ],
