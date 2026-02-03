@@ -53,7 +53,7 @@ const siteConfig = {
     {
       institution: 'CHRIST UNIVERSITY BANNERGHATTA ROAD CAMPUS ',
       degree: 'Bachelors in Economics with Data Science',
-      year: '2025–2028',
+      year: '2025–Present',
       image: getAsset('images/education/placeholder.png'),
       description: ['description: [
   'Focused on economic analysis using data science tools and quantitative methods.'
@@ -85,14 +85,14 @@ const siteConfig = {
   // ✅ Experience section updated
   experience: [
     {
-      title: 'Your Role',
+      title: 'Branding and Decor Associate ',
       cardImage: getAsset('images/experience/placeholder.png'),
-      place: 'Your Organization',
-      time: '(MMM YYYY – Present)',
-      desp: ['Brief responsibility 1', 'Brief responsibility 2'],
+      place: 'Atilier Enterprises',
+      time: '(04/2026 – Present)',
+      desp: ['Event Branding', 'Data Visualisation'],
     },
     {
-      title: 'Previous Role',
+      title: ' No Previous Role',
       cardImage: getAsset('images/experience/placeholder.png'),
       place: 'Previous Organization',
       time: '(MMM YYYY – MMM YYYY)',
@@ -104,9 +104,9 @@ const siteConfig = {
   // ✅ Projects section updated
   projects: [
     {
-      title: 'Project Title 1',
+      title: 'DASHBOARD CREATION',
       cardImage: getAsset('images/project/placeholder.png'),
-      description: 'Short description of your project and what it does...',
+      description: 'Built an interactive dashboard to visualize key metrics and support quick, data-driven insights.',
       Githublink: 'https://github.com/your-username/your-project',
     },
     {
