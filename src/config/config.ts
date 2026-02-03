@@ -44,7 +44,7 @@ const siteConfig = {
   blogs: [
     {
       title: 'Designing Experiences Through Branding & Decor',
-      url: getAsset('static_page/project_management_blog.html'), // Replace with your static HTML page
+      url: getAsset('static_page/branding_and_decor_blog.html'), // Replace with your static HTML page
     },
   ],
 
