@@ -17,7 +17,7 @@ const siteConfig = {
       'Undergraduate student pursuing a BSc in Economics with Data Science, complemented by hands-on experience in branding and décor gained through college clubs and my role as an intern at Atelier Enterprises.\n' +
       '\n' +
       'As an intern at Atelier Enterprises, I conduct online workshops focused on branding and décor, sharing practical insights in visual styling and brand aesthetics.',
-    tagline: 'From studio to strategy: bringing discipline, creativity, and drive.',
+    tagline: 'Visuals that speak before words do.',
     location: 'BANGALORE, INDIA',
   },
 
@@ -26,7 +26,7 @@ const siteConfig = {
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
-  animatedText: ['Your Role', 'Your Focus', 'Your Interest', 'Builder'],
+  animatedText: ['Branding & Decor Associate', 'Where Brands Meet Spaces', 'Creative Visual Storytelling', 'Ideas into Experiences'],
 
   navigation: [
     { name: 'Home', url: '/' },
