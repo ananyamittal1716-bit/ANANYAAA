@@ -51,19 +51,16 @@ const siteConfig = {
 
   education: [
     {
-      institution: 'Your Institution',
-      degree: 'Your Degree',
-      year: 'YYYY–YYYY',
+      institution: 'CHRIST UNIVERSITY BANNERGHATTA ROAD CAMPUS ',
+      degree: 'Bachelors in Economics with Data Science',
+      year: '2025–2028',
       image: getAsset('images/education/placeholder.png'),
-      description: ['Brief description of your focus or thesis'],
+      description: ['description: [
+  'Focused on economic analysis using data science tools and quantitative methods.'
+]
+'],
     },
-    {
-      institution: 'Another Institution',
-      degree: 'Another Degree or Certificate',
-      year: 'YYYY–YYYY',
-      image: getAsset('images/education/placeholder.png'),
-      description: ['Key topics or skills learned'],
-    },
+  
   ],
 
 // ✅ Unified MOOC + Certifications Section
