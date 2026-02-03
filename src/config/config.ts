@@ -105,7 +105,7 @@ const siteConfig = {
   projects: [
     {
       title: 'DASHBOARD CREATION',
-      cardImage: getAsset('images/project/placeholder.png'),
+      cardImage: getAsset('images/project/projectimg.png'),
       description: 'Built an interactive dashboard to visualize key metrics and support quick, data-driven insights.',
       Githublink: 'https://github.com/your-username/your-project',
     },
